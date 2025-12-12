@@ -89,7 +89,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Nerds](3_Project\Images\Skill_demand_all_data.png)
+![Visualization of Top Skills for Data Nerds](Images\Skill_demand_all_data.png)
 
 ### Insights
 
